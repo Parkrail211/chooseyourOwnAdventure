@@ -135,6 +135,7 @@ namespace chooseyourOwnAdventure
             // 
             // pictureBox8
             // 
+            this.pictureBox8.BackColor = System.Drawing.Color.Black;
             this.pictureBox8.Location = new System.Drawing.Point(122, 41);
             this.pictureBox8.Name = "pictureBox8";
             this.pictureBox8.Size = new System.Drawing.Size(665, 207);
