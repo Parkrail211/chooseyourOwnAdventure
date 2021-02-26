@@ -61,7 +61,7 @@ namespace chooseyourOwnAdventure
             this.outputLabel.Name = "outputLabel";
             this.outputLabel.Size = new System.Drawing.Size(751, 40);
             this.outputLabel.TabIndex = 0;
-            this.outputLabel.Text = "label1";
+            this.outputLabel.Text = "welcome to dungeon simulator";
             // 
             // pictureBox1
             // 
@@ -150,6 +150,7 @@ namespace chooseyourOwnAdventure
             this.choiceBlue.Name = "choiceBlue";
             this.choiceBlue.Size = new System.Drawing.Size(250, 13);
             this.choiceBlue.TabIndex = 10;
+            this.choiceBlue.Text = "Begin";
             // 
             // choiceYellow
             // 
@@ -159,6 +160,7 @@ namespace chooseyourOwnAdventure
             this.choiceYellow.Name = "choiceYellow";
             this.choiceYellow.Size = new System.Drawing.Size(250, 13);
             this.choiceYellow.TabIndex = 11;
+            this.choiceYellow.Text = "Close";
             // 
             // choiceRed
             // 
