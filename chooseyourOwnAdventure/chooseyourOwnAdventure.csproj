@@ -54,19 +54,30 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resource1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource1.resx</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
+    <Compile Include="Properties\Resources.cs" />
+    <EmbeddedResource Include="Resource1.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resource1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -103,6 +114,72 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\436abb31c4c2bad27e9bc22b5ca318cf %283%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ta Da-SoundBible.com-18841706401.wav" />
+    <None Include="Resources\Scary Scream-SoundBible.com-11153843361.wav" />
+    <None Include="Resources\Sad_Trombone-Joe_Lamb-6654294501.wav" />
+    <None Include="Resources\Sad_Trombone-Joe_Lamb-665429450.wav" />
+    <None Include="Resources\Ta Da-SoundBible.com-1884170640.wav" />
+    <None Include="Resources\Scary Scream-SoundBible.com-1115384336.wav" />
+    <None Include="Resources\32847539f3d1e018a00145a3848f67e8.jpg" />
+    <None Include="Resources\1_person_cheering-Jett_Rifkin-1851518140.wav" />
+    <None Include="Resources\1_person_cheering-Jett_Rifkin-18515181401.wav" />
+    <None Include="Resources\6591069_game_over.jpg" />
+    <None Include="Resources\D430ACA6-D9C7-4B78-A9DF-25ECA2EB9E6A1.jpg" />
+    <None Include="Resources\6591069_game_over1.jpg" />
+    <None Include="Resources\6E78D9BC-D0AB-492C-B0D4-2F0345FC51FE.jpg" />
+    <None Include="Resources\6E78D9BC-D0AB-492C-B0D4-2F0345FC51FE1.jpg" />
+    <None Include="Resources\72A28790-ACBB-4F6D-9F34-F0C49663FA76.jpg" />
+    <None Include="Resources\72A28790-ACBB-4F6D-9F34-F0C49663FA761.jpg" />
+    <None Include="Resources\C3C7C25F-2D5D-416F-9B30-78A0D9BF5F01.jpg" />
+    <None Include="Resources\C3C7C25F-2D5D-416F-9B30-78A0D9BF5F011.jpg" />
+    <None Include="Resources\Capture.PNG" />
+    <None Include="Resources\CC9032F9-C6C8-4BE7-A75A-EDD88670CFA7.jpg" />
+    <None Include="Resources\CC9032F9-C6C8-4BE7-A75A-EDD88670CFA71.jpg" />
+    <None Include="Resources\chain.wav" />
+    <None Include="Resources\Church Ambiance-SoundBible.com-1658113405.wav" />
+    <None Include="Resources\Crowd Laughing-SoundBible.com-156484001.wav" />
+    <None Include="Resources\Crying-SoundBible.com-1419166957.wav" />
+    <None Include="Resources\Clear Throat-SoundBible.com-2074384264.wav" />
+    <None Include="Resources\Church Ambiance-SoundBible.com-16581134051.wav" />
+    <None Include="Resources\Clear Throat-SoundBible.com-20743842641.wav" />
+    <None Include="Resources\Crying-SoundBible.com-14191669571.wav" />
+    <None Include="Resources\Crowd Laughing-SoundBible.com-1564840011.wav" />
+    <None Include="Resources\D430ACA6-D9C7-4B78-A9DF-25ECA2EB9E6A.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chain Dropped-SoundBible.com-953702255.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chain Dropped-SoundBible.com-9537022551.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Church Ambiance-SoundBible.com-16581134052.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chain Dropped-SoundBible.com-9537022552.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clear Throat-SoundBible.com-20743842642.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Crying-SoundBible.com-14191669572.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Crowd Laughing-SoundBible.com-1564840012.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sad_Trombone-Joe_Lamb-6654294502.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Scary Scream-SoundBible.com-11153843362.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ta Da-SoundBible.com-18841706402.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1_person_cheering-Jett_Rifkin-18515181402.wav" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -63,9 +63,9 @@ namespace chooseyourOwnAdventure.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _436abb31c4c2bad27e9bc22b5ca318cf {
+        internal static System.Drawing.Bitmap _32847539f3d1e018a00145a3848f67e8 {
             get {
-                object obj = ResourceManager.GetObject("436abb31c4c2bad27e9bc22b5ca318cf", resourceCulture);
+                object obj = ResourceManager.GetObject("_32847539f3d1e018a00145a3848f67e8", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +73,9 @@ namespace chooseyourOwnAdventure.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _436abb31c4c2bad27e9bc22b5ca318cf__1_ {
+        internal static System.Drawing.Bitmap _6591069_game_over {
             get {
-                object obj = ResourceManager.GetObject("436abb31c4c2bad27e9bc22b5ca318cf (1)", resourceCulture);
+                object obj = ResourceManager.GetObject("_6591069_game_over", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -83,9 +83,9 @@ namespace chooseyourOwnAdventure.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _436abb31c4c2bad27e9bc22b5ca318cf__2_ {
+        internal static System.Drawing.Bitmap _6E78D9BC_D0AB_492C_B0D4_2F0345FC51FE {
             get {
-                object obj = ResourceManager.GetObject("436abb31c4c2bad27e9bc22b5ca318cf (2)", resourceCulture);
+                object obj = ResourceManager.GetObject("_6E78D9BC_D0AB_492C_B0D4_2F0345FC51FE", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -93,9 +93,28 @@ namespace chooseyourOwnAdventure.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _436abb31c4c2bad27e9bc22b5ca318cf__2_1 {
+        internal static System.Drawing.Bitmap _72A28790_ACBB_4F6D_9F34_F0C49663FA76 {
             get {
-                object obj = ResourceManager.GetObject("436abb31c4c2bad27e9bc22b5ca318cf (2)1", resourceCulture);
+                object obj = ResourceManager.GetObject("_72A28790_ACBB_4F6D_9F34_F0C49663FA76", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream ambiant {
+            get {
+                return ResourceManager.GetStream("ambiant", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap C3C7C25F_2D5D_416F_9B30_78A0D9BF5F01 {
+            get {
+                object obj = ResourceManager.GetObject("C3C7C25F_2D5D_416F_9B30_78A0D9BF5F01", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -103,40 +122,92 @@ namespace chooseyourOwnAdventure.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _436abb31c4c2bad27e9bc22b5ca318cf__3_ {
+        internal static System.Drawing.Bitmap CC9032F9_C6C8_4BE7_A75A_EDD88670CFA7 {
             get {
-                object obj = ResourceManager.GetObject("436abb31c4c2bad27e9bc22b5ca318cf (3)", resourceCulture);
+                object obj = ResourceManager.GetObject("CC9032F9_C6C8_4BE7_A75A_EDD88670CFA7", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream Chain {
+            get {
+                return ResourceManager.GetStream("Chain", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream Clear_Throat_SoundBible_com_2074384264 {
+            get {
+                return ResourceManager.GetStream("Clear_Throat_SoundBible_com_2074384264", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream crying {
+            get {
+                return ResourceManager.GetStream("crying", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _436abb31c4c2bad27e9bc22b5ca318cf__3_1 {
+        internal static System.Drawing.Bitmap D430ACA6_D9C7_4B78_A9DF_25ECA2EB9E6A {
             get {
-                object obj = ResourceManager.GetObject("436abb31c4c2bad27e9bc22b5ca318cf (3)1", resourceCulture);
+                object obj = ResourceManager.GetObject("D430ACA6_D9C7_4B78_A9DF_25ECA2EB9E6A", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
         
         /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
         /// </summary>
-        internal static System.Drawing.Bitmap _436abb31c4c2bad27e9bc22b5ca318cf1 {
+        internal static System.IO.UnmanagedMemoryStream laugh {
             get {
-                object obj = ResourceManager.GetObject("436abb31c4c2bad27e9bc22b5ca318cf1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
+                return ResourceManager.GetStream("laugh", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
         /// </summary>
-        internal static System.Drawing.Bitmap _8a79ae60c65c025c65d1e9a70fdacd95 {
+        internal static System.IO.UnmanagedMemoryStream sad {
             get {
-                object obj = ResourceManager.GetObject("8a79ae60c65c025c65d1e9a70fdacd95", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
+                return ResourceManager.GetStream("sad", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream scream {
+            get {
+                return ResourceManager.GetStream("scream", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream Ta_Da {
+            get {
+                return ResourceManager.GetStream("Ta Da", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream yay {
+            get {
+                return ResourceManager.GetStream("yay", resourceCulture);
             }
         }
     }
