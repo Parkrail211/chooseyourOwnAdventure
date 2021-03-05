@@ -18,7 +18,7 @@ namespace chooseyourOwnAdventure
         Random rnd = new Random();
         SoundPlayer chain = new SoundPlayer(Properties.Resources.Chain);
         SoundPlayer ambiant = new SoundPlayer(Properties.Resources.ambiant);
-        SoundPlayer sad = new SoundPlayer(Properties.Resources.sad);
+        SoundPlayer sad = new SoundPlayer(Properties.Resources.Clear_Throat_SoundBible_com_2074384264);
         SoundPlayer yay = new SoundPlayer(Properties.Resources.yay);
         SoundPlayer scream = new SoundPlayer(Properties.Resources.scream);
         SoundPlayer clear = new SoundPlayer(Properties.Resources.Clear_Throat_SoundBible_com_2074384264);

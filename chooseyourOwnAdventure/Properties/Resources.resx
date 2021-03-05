@@ -118,52 +118,67 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="ambiant" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Church Ambiance-SoundBible.com-16581134052.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="C3C7C25F_2D5D_416F_9B30_78A0D9BF5F01" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\C3C7C25F-2D5D-416F-9B30-78A0D9BF5F01.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="CC9032F9_C6C8_4BE7_A75A_EDD88670CFA7" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\CC9032F9-C6C8-4BE7-A75A-EDD88670CFA7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Chain" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Chain Dropped-SoundBible.com-9537022552.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <data name="Clear_Throat_SoundBible_com_2074384264" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Clear Throat-SoundBible.com-20743842642.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="crying" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Crying-SoundBible.com-14191669572.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="D430ACA6_D9C7_4B78_A9DF_25ECA2EB9E6A" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\D430ACA6-D9C7-4B78-A9DF-25ECA2EB9E6A.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="laugh" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Crowd Laughing-SoundBible.com-1564840012.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="sad" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Sad_Trombone-Joe_Lamb-6654294502.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="scream" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Scary Scream-SoundBible.com-11153843362.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Ta Da" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Ta Da-SoundBible.com-18841706402.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="yay" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\1_person_cheering-Jett_Rifkin-18515181402.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>..\Resources\Sad_Trombone-Joe_Lamb-665429450.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="_32847539f3d1e018a00145a3848f67e8" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\32847539f3d1e018a00145a3848f67e8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="_6591069_game_over" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\6591069_game_over.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="D430ACA6_D9C7_4B78_A9DF_25ECA2EB9E6A" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\D430ACA6-D9C7-4B78-A9DF-25ECA2EB9E6A.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="_6E78D9BC_D0AB_492C_B0D4_2F0345FC51FE" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\6E78D9BC-D0AB-492C-B0D4-2F0345FC51FE.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="436abb31c4c2bad27e9bc22b5ca318cf (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\436abb31c4c2bad27e9bc22b5ca318cf (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="clear" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Clear Throat-SoundBible.com-2074384264.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="yay" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1_person_cheering-Jett_Rifkin-1851518140.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="436abb31c4c2bad27e9bc22b5ca318cf" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\436abb31c4c2bad27e9bc22b5ca318cf.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="C3C7C25F_2D5D_416F_9B30_78A0D9BF5F01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\C3C7C25F-2D5D-416F-9B30-78A0D9BF5F01.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Chain" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Chain Dropped-SoundBible.com-9537022551.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="ambiant" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Church Ambiance-SoundBible.com-1658113405.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="436abb31c4c2bad27e9bc22b5ca318cf (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\436abb31c4c2bad27e9bc22b5ca318cf (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="laugh" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Crowd Laughing-SoundBible.com-156484001.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CC9032F9_C6C8_4BE7_A75A_EDD88670CFA7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CC9032F9-C6C8-4BE7-A75A-EDD88670CFA7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="_72A28790_ACBB_4F6D_9F34_F0C49663FA76" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\72A28790-ACBB-4F6D-9F34-F0C49663FA76.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="436abb31c4c2bad27e9bc22b5ca318cf (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\436abb31c4c2bad27e9bc22b5ca318cf (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="crying" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Crying-SoundBible.com-1419166957.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="scream" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Scary Scream-SoundBible.com-1115384336.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Ta_Da" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ta Da-SoundBible.com-1884170640.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="_6591069_game_over" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6591069_game_over.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="8a79ae60c65c025c65d1e9a70fdacd95" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8a79ae60c65c025c65d1e9a70fdacd95.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
