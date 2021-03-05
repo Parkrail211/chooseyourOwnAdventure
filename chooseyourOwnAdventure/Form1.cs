@@ -12,7 +12,7 @@ using System.Media;
 
 namespace chooseyourOwnAdventure
 {
-    public partial class Form1 : Form
+    public partial class Dungeon_Simulator : Form
     {
         int scene = 0;
         Random rnd = new Random();
@@ -33,7 +33,7 @@ namespace chooseyourOwnAdventure
         Image killTom = Properties.Resources.D430ACA6_D9C7_4B78_A9DF_25ECA2EB9E6A;
         Image gameOver = Properties.Resources._32847539f3d1e018a00145a3848f67e8;
         
-        public Form1()
+        public Dungeon_Simulator()
         {
             InitializeComponent();
         }
